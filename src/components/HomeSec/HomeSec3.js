@@ -7,7 +7,7 @@ import person3 from '../../images/person3.jpg'
 
 function HomeSec3() {
   return (
-    <section className='flex justify-center md:m-0'>
+    <section className='flex justify-center'>
         <div className='flex justify-center items-center'>
             <div className='w-screen h-[1913px] bg-white flex justify-center items-center md:h-[787.01px] md:w-[1492px]'>
                 <div className='w-5/6 h-[1913px]  flex flex-col justify-between items-center md:h-[787.01px] md:flex-col md:w-4/5 md:justify-evenly'>
