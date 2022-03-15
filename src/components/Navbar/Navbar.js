@@ -6,7 +6,7 @@ import AlignHorizontalRightIcon from '@mui/icons-material/AlignHorizontalRight';
 function Navbar() {
   return (
       <section className='flex justify-center'>
-              <nav className='flex justify-center items-center w-[1492px]'>
+        <nav className='flex justify-center items-center w-[1492px]'>
         <div className='flex lg:w-4/5 md:w-5/6 w-11/12 items-center h-16 justify-between'>
             <p className='font-bold text-2xl mb-1' style={{color:'white'}}>BrandName</p>   
             <div className='hidden md:flex justify-center items-center'>
