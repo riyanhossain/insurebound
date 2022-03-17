@@ -5,6 +5,7 @@ import HomeSec2 from '../HomeSec/HomeSec2'
 import HomeSec3 from '../HomeSec/HomeSec3'
 import HomeSec4 from '../HomeSec/HomeSec4'
 import HomeSec5 from '../HomeSec/HomeSec5'
+import HomeSec6 from '../HomeSec/HomeSec6'
 import Navbar from '../Navbar/Navbar'
 
 function Home() {
@@ -17,6 +18,7 @@ function Home() {
             <HomeSec3/>
             <HomeSec4/>
             <HomeSec5/>
+            <HomeSec6/>
         </div>
 
     </main>

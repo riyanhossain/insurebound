@@ -196,7 +196,7 @@ function HomeSec5() {
                   </svg>
                   Free premium dashboard
                 </li>
-                <li class="mb-3 flex items-center ">
+                <li class="mb-3 flex items-center">
                   <svg
                     class="h-6 w-6 mr-2"
                     xmlns="http://www.w3.org/2000/svg"
