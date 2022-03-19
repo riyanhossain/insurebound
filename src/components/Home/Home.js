@@ -1,5 +1,6 @@
 import React from 'react'
 import bgHome from '../../images/bgHome.jpg'
+import Footer from '../Footer/Footer'
 import HomeSec from '../HomeSec/HomeSec'
 import HomeSec2 from '../HomeSec/HomeSec2'
 import HomeSec3 from '../HomeSec/HomeSec3'
@@ -19,6 +20,7 @@ function Home() {
             <HomeSec4/>
             <HomeSec5/>
             <HomeSec6/>
+            <Footer/>
         </div>
 
     </main>
